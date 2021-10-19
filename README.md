@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Tenggo7723
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Tenggo7723/Tenggo7723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Saya adalah TonoMaryono dari Garut Indonesia
+-Saya menggunakan Github hanya untuk berbagi dan sedikit ingin mengembangkan Microcontroller 8051
+-dan microcontroller berjenis Atmega dan ARM coretex
+-Program yang sya gunakan adalah Keil dan Arduino
+-untuk saudara di manapun berada saya mohon maaf yang se besar besarnya karena saya masih
+-terlalu jauh jika di bandingkan dengan Programmer lain
